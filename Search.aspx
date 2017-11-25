@@ -130,7 +130,7 @@
                                                         <td align="left" class="style2">
                                                             <asp:Literal ID="litseat" runat="server"></asp:Literal>
                                                         </td>
-                                                        <td><strong>Total Seat</strong> </td>
+                                                        <td><strong>Number of Seat</strong> </td>
                                                         <td>:</td>
                                                         <td>
                                                             <asp:Literal ID="littotalseat" runat="server" />
